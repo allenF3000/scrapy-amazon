@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//model/article.py=utf-8
+encoding//model/config.py=utf-8
+encoding//model/rule.py=utf-8
+encoding//spiders/deep_spider.py=utf-8
+encoding//spiders/dmoz_spider.py=utf-8
+encoding/pipelines.py=utf-8
+encoding/run.py=utf-8
